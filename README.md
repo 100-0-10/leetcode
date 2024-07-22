@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0027-remove-element](https://github.com/100-0-10/leetcode/tree/master/0027-remove-element) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0088-merge-sorted-array) |
 | [0027-remove-element](https://github.com/100-0-10/leetcode/tree/master/0027-remove-element) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Sorting
 |  |
 | ------- |
