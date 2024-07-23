@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/100-0-10/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [0978-valid-mountain-array](https://github.com/100-0-10/leetcode/tree/master/0978-valid-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/100-0-10/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
