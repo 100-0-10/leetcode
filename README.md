@@ -37,4 +37,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/100-0-10/leetcode/tree/master/1894-merge-strings-alternately) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/100-0-10/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/100-0-10/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
