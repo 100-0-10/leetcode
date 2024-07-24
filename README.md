@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/100-0-10/leetcode/tree/master/0027-remove-element) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/100-0-10/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/100-0-10/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/100-0-10/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/100-0-10/leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
