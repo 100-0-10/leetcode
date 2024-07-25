@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0978-valid-mountain-array](https://github.com/100-0-10/leetcode/tree/master/0978-valid-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/100-0-10/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/100-0-10/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/100-0-10/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
