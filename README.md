@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/100-0-10/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/100-0-10/leetcode/tree/master/1894-merge-strings-alternately) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/100-0-10/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/100-0-10/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/100-0-10/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/100-0-10/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [0151-reverse-words-in-a-string](https://github.com/100-0-10/leetcode/tree/master/0151-reverse-words-in-a-string) |
 ## Math
 |  |
 | ------- |
