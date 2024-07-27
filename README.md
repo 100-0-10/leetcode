@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/100-0-10/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/100-0-10/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [0605-can-place-flowers](https://github.com/100-0-10/leetcode/tree/master/0605-can-place-flowers) |
+| [0169-majority-element](https://github.com/100-0-10/leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,10 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/100-0-10/leetcode/tree/master/0088-merge-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/100-0-10/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [0169-majority-element](https://github.com/100-0-10/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/100-0-10/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [0169-majority-element](https://github.com/100-0-10/leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,4 +55,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/100-0-10/leetcode/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/100-0-10/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/100-0-10/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
